@@ -1,4 +1,6 @@
-## Hi there, I'm Pedro Henrique, and i love data engineering 👋
+## Hi there, I'm Pedro Henrique.
+I love programming and finding simple solutions to complex problems.
+Eternal student of data architecture.
 
 <!--
 **PedroFacundo/PedroFacundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
